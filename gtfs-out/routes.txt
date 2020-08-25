@@ -1,0 +1,316 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+192251,1,,15E - Algés,,3,,ffffff,000000
+192252,1,,15E - Algés,,3,,ffffff,000000
+192253,1,,15E - Algés,,3,,ffffff,000000
+192254,1,,15E - Pr. Figueira,,3,,ffffff,000000
+192255,1,,15E - Pr. Figueira,,3,,ffffff,000000
+192261,1,,714 - Outurela,,3,,ffffff,000000
+192279,1,,776 - Cruz Quebrada,,3,,ffffff,000000
+191192,1,,731 - Moscavide-Centro,,3,,ffffff,000000
+191195,1,,760 - G. Freire,,3,,ffffff,000000
+191156,1,,759 - Sul e Sueste,,3,,ffffff,000000
+192280,1,,776 - Algés,,3,,ffffff,000000
+191160,1,,797 - P. Chile,,3,,ffffff,000000
+191161,1,,797 - Sapadores,,3,,ffffff,000000
+191114,1,,201 - Cais Sodré,,3,,ffffff,000000
+191674,1,,712 - Alcântara,,3,,ffffff,000000
+191129,1,,32B - Amendoeiras (Metro),,3,,ffffff,000000
+192282,1,,79B - Algés,,3,,ffffff,000000
+161795,1,,701 - Campo Ourique,,3,,ffffff,000000
+161796,1,,701 - Campo Ourique,,3,,ffffff,000000
+176374,1,,706 - Est. S. Apolónia,,3,,ffffff,000000
+176375,1,,706 - Est. S. Apolónia,,3,,ffffff,000000
+176376,1,,706 - Cais Sodré,,3,,ffffff,000000
+191649,1,,31B - Vale Formoso,,3,,ffffff,000000
+191650,1,,31B - B. Alfinetes,,3,,ffffff,000000
+191679,1,,726 - Pontinha (Centro),,3,,ffffff,000000
+191680,1,,726 - Pontinha (Centro),,3,,ffffff,000000
+191681,1,,726 - Pontinha (Centro),,3,,ffffff,000000
+191689,1,,730 - Picoas,,3,,ffffff,000000
+192176,1,,747 - Campo Grande Metro,,3,,ffffff,000000
+192119,1,,15E - Algés,,3,,ffffff,000000
+192120,1,,15E - Pr. Figueira,,3,,ffffff,000000
+192123,1,,727 - Restelo,,3,,ffffff,000000
+192124,1,,727 - Restelo,,3,,ffffff,000000
+192125,1,,727 - Est. Roma-Areeiro,,3,,ffffff,000000
+192127,1,,774 - Gomes Freire,,3,,ffffff,000000
+192130,1,,781 - Prior Velho,,3,,ffffff,000000
+192131,1,,781 - Cais Sodré,,3,,ffffff,000000
+161797,1,,702 - Marquês Pombal,,3,,ffffff,000000
+161798,1,,702 - Marquês Pombal,,3,,ffffff,000000
+161799,1,,705 - Estação Oriente,,3,,ffffff,000000
+162054,1,,54E - Lg. Carmo,,3,,ffffff,000000
+162055,1,,54E - R. Ouro,,3,,ffffff,000000
+191617,1,,720 - Calvário,,3,,ffffff,000000
+192174,1,,742 - Ajuda,,3,,ffffff,000000
+192185,1,,767 - Reboleira (Estação),,3,,ffffff,000000
+192186,1,,767 - Reboleira (Estação),,3,,ffffff,000000
+192187,1,,794 - Estação Oriente,,3,,ffffff,000000
+192188,1,,794 - T. Paço,,3,,ffffff,000000
+191141,1,,728 - Restelo,,3,,ffffff,000000
+191142,1,,735 - Hosp. Sta. Maria,,3,,ffffff,000000
+191143,1,,735 - Hosp. Sta. Maria,,3,,ffffff,000000
+191635,1,,770 - Sete Rios,,3,,ffffff,000000
+191636,1,,770 - Sete Rios,,3,,ffffff,000000
+191151,1,,746 - M. Pombal,,3,,ffffff,000000
+191152,1,,746 - M. Pombal,,3,,ffffff,000000
+191153,1,,754 - Alfragide,,3,,ffffff,000000
+191154,1,,754 - C. Pequeno,,3,,ffffff,000000
+191155,1,,759 - Est. Oriente,,3,,ffffff,000000
+183490,1,,25E - Prazeres,,3,,ffffff,000000
+191706,1,,18E - Cemit. Ajuda,,3,,ffffff,000000
+191708,1,,18E - Cais Sodré,,3,,ffffff,000000
+191709,1,,714 - Outurela,,3,,ffffff,000000
+191663,1,,24E - Pç. Luis Camões,,3,,ffffff,000000
+191666,1,,24E - Campolide,,3,,ffffff,000000
+191667,1,,723 - Algés,,3,,ffffff,000000
+161297,1,,718 - ISEL,,3,,ffffff,000000
+161290,1,,706 - Est. S. Apolónia,,3,,ffffff,000000
+191712,1,,728 - Portela,,3,,ffffff,000000
+161913,1,,712 - Est. Sta. Apolónia,,3,,ffffff,000000
+161050,1,,702 - Serafina,,3,,ffffff,000000
+162159,1,,729 - B. Padre Cruz,,3,,ffffff,000000
+162162,1,,753 - Centro Sul,,3,,ffffff,000000
+162163,1,,753 - Pç. José Fontana,,3,,ffffff,000000
+191097,1,,758 - Cais Sodré,,3,,ffffff,000000
+191102,1,,764 - Damaia de cima,,3,,ffffff,000000
+191103,1,,764 - Damaia de cima,,3,,ffffff,000000
+191110,1,,15E - Pr. Figueira,,3,,ffffff,000000
+191118,1,,208 - Estação Oriente,,3,,ffffff,000000
+191121,1,,210 - Cais Sodré,,3,,ffffff,000000
+191122,1,,26B - Parque Nações Norte,,3,,ffffff,000000
+191123,1,,26B - Parque Nações Sul,,3,,ffffff,000000
+192177,1,,751 - Linda-a-Velha,,3,,ffffff,000000
+192178,1,,751 - Linda-a-Velha,,3,,ffffff,000000
+192179,1,,751 - Linda-a-Velha,,3,,ffffff,000000
+192180,1,,751 - Linda-a-Velha,,3,,ffffff,000000
+192181,1,,760 - Cemit. Ajuda,,3,,ffffff,000000
+192182,1,,760 - Cemit. Ajuda,,3,,ffffff,000000
+192183,1,,760 - Cemit. Ajuda,,3,,ffffff,000000
+192184,1,,760 - Cemit. Ajuda,,3,,ffffff,000000
+192775,1,,202 - Bº Padre Cruz,,3,,ffffff,000000
+192776,1,,202 - Cais Sodré,,3,,ffffff,000000
+192777,1,,202 - Cais Sodré,,3,,ffffff,000000
+192778,1,,22B - Cais Sodré (Centro S,,3,,ffffff,000000
+192779,1,,28E - Prazeres,,3,,ffffff,000000
+192781,1,,28E - Prazeres,,3,,ffffff,000000
+192782,1,,28E - Prazeres,,3,,ffffff,000000
+192783,1,,28E - Prazeres,,3,,ffffff,000000
+192784,1,,28E - M. Moniz,,3,,ffffff,000000
+192785,1,,28E - M. Moniz,,3,,ffffff,000000
+192786,1,,34B - Olaias,,3,,ffffff,000000
+192787,1,,41B - Galinheiras,,3,,ffffff,000000
+192788,1,,41B - Qta. Lavadeiras,,3,,ffffff,000000
+192789,1,,58B - Sete Rios,,3,,ffffff,000000
+192790,1,,"703 - Bº. Sta, Cruz",,3,,ffffff,000000
+192791,1,,703 - Charneca,,3,,ffffff,000000
+192792,1,,708 - Sacavém,,3,,ffffff,000000
+192793,1,,708 - Sacavém,,3,,ffffff,000000
+192794,1,,708 - Sacavém,,3,,ffffff,000000
+192795,1,,708 - Martim Moniz,,3,,ffffff,000000
+192796,1,,708 - Martim Moniz,,3,,ffffff,000000
+192797,1,,70B - C. Militar (Metro),,3,,ffffff,000000
+192798,1,,722 - Pça. de Londres,,3,,ffffff,000000
+192799,1,,724 - Pontinha,,3,,ffffff,000000
+192800,1,,724 - Pontinha,,3,,ffffff,000000
+192801,1,,724 - Pontinha,,3,,ffffff,000000
+192802,1,,724 - Alcântara,,3,,ffffff,000000
+192803,1,,724 - Alcântara,,3,,ffffff,000000
+192804,1,,724 - Alcântara,,3,,ffffff,000000
+192805,1,,729 - Algés,,3,,ffffff,000000
+192806,1,,729 - B. Padre Cruz,,3,,ffffff,000000
+192807,1,,732 - Caselas,,3,,ffffff,000000
+192808,1,,734 - Est. Sta. Apolónia,,3,,ffffff,000000
+192809,1,,734 - Est. Sta. Apolónia,,3,,ffffff,000000
+192810,1,,750 - Algés,,3,,ffffff,000000
+192811,1,,750 - Algés,,3,,ffffff,000000
+192812,1,,750 - Algés,,3,,ffffff,000000
+192813,1,,750 - Est. Oriente,,3,,ffffff,000000
+192814,1,,750 - Est. Oriente,,3,,ffffff,000000
+192815,1,,750 - Est. Oriente,,3,,ffffff,000000
+192816,1,,758 - Portas Benfica,,3,,ffffff,000000
+192817,1,,773 - Alcântara-Terra,,3,,ffffff,000000
+192818,1,,799 - Alfragide Norte,,3,,ffffff,000000
+192819,1,,799 - Col. Militar - Metro,,3,,ffffff,000000
+191621,1,,736 - Cais Sodré,,3,,ffffff,000000
+191622,1,,738 - A. S. Amaro,,3,,ffffff,000000
+191625,1,,742 - B. Madre Deus,,3,,ffffff,000000
+191626,1,,742 - B. Madre Deus,,3,,ffffff,000000
+191627,1,,742 - B. Madre Deus,,3,,ffffff,000000
+191628,1,,744 - Moscavide,,3,,ffffff,000000
+191629,1,,744 - Marquês Pombal,,3,,ffffff,000000
+191187,1,,727 - Est. Roma-Areeiro,,3,,ffffff,000000
+160134,1,,705 - Estação Oriente,,3,,ffffff,000000
+183492,1,,25E - R. Alfândega,,3,,ffffff,000000
+192167,1,,43B - Paço Lumiar,,3,,ffffff,000000
+176377,1,,711 - Praça Comércio,,3,,ffffff,000000
+176381,1,,723 - Desterro,,3,,ffffff,000000
+176408,1,,746 - Damaia,,3,,ffffff,000000
+176415,1,,751 - Est. Campolide,,3,,ffffff,000000
+191704,1,,28E - M. Moniz,,3,,ffffff,000000
+176417,1,,751 - Est. Campolide,,3,,ffffff,000000
+176418,1,,751 - Est. Campolide,,3,,ffffff,000000
+176419,1,,756 - Junqueira,,3,,ffffff,000000
+161719,1,,731 - Moscavide-Centro,,3,,ffffff,000000
+149554,1,,755 - Sete Rios,,3,,ffffff,000000
+191672,1,,709 - C. Ourique,,3,,ffffff,000000
+191673,1,,709 - Restauradores,,3,,ffffff,000000
+191633,1,,774 - Campo Ourique,,3,,ffffff,000000
+161729,1,,783 - Portela,,3,,ffffff,000000
+161730,1,,783 - Amoreiras,,3,,ffffff,000000
+191089,1,,738 - Qta. Barros,,3,,ffffff,000000
+191112,1,,15E - Pr. Figueira,,3,,ffffff,000000
+191113,1,,201 - Linda-A-Velha,,3,,ffffff,000000
+191184,1,,727 - Restelo,,3,,ffffff,000000
+191185,1,,727 - Restelo,,3,,ffffff,000000
+162181,1,,717 - Pç. Chile,,3,,ffffff,000000
+191741,1,,760 - G. Freire,,3,,ffffff,000000
+190654,1,,782 - Moscavide(PJQueiros),,3,,ffffff,000000
+190655,1,,782 - Cais Sodré,,3,,ffffff,000000
+161566,1,,722 - Portela,,3,,ffffff,000000
+161569,1,,723 - Algés,,3,,ffffff,000000
+161570,1,,723 - Algés,,3,,ffffff,000000
+162146,1,,702 - Serafina,,3,,ffffff,000000
+161573,1,,725 - Prior Velho,,3,,ffffff,000000
+161574,1,,725 - Prior Velho,,3,,ffffff,000000
+161575,1,,725 - Est. Oriente,,3,,ffffff,000000
+161576,1,,725 - Est. Oriente,,3,,ffffff,000000
+161583,1,,730 - Picheleira,,3,,ffffff,000000
+162050,1,,51E - S. Pedro Alcantâra,,3,,ffffff,000000
+161602,1,,749 - ISEL,,3,,ffffff,000000
+161603,1,,753 - Pç. José Fontana,,3,,ffffff,000000
+162051,1,,51E - Restauradores,,3,,ffffff,000000
+160179,1,,748 - Linda-a-Velha,,3,,ffffff,000000
+161258,1,,764 - Cidade Universitária,,3,,ffffff,000000
+162260,1,,754 - Alfragide,,3,,ffffff,000000
+162262,1,,754 - C. Pequeno,,3,,ffffff,000000
+162269,1,,758 - Portas Benfica,,3,,ffffff,000000
+161411,1,,731 - Av. José Malhoa,,3,,ffffff,000000
+161412,1,,731 - Av. José Malhoa,,3,,ffffff,000000
+161418,1,,749 - Est. Entrecampos,,3,,ffffff,000000
+191643,1,,18E - Cemit. Ajuda,,3,,ffffff,000000
+191732,1,,726 - Sapadores,,3,,ffffff,000000
+191737,1,,734 - Martim Moniz,,3,,ffffff,000000
+191738,1,,734 - Martim Moniz,,3,,ffffff,000000
+191739,1,,747 - Pontinha (Metro),,3,,ffffff,000000
+183532,1,,755 - Poço Bispo,,3,,ffffff,000000
+191106,1,,12E - M. Moniz / Castelo,,3,,ffffff,000000
+191107,1,,15E - Algés,,3,,ffffff,000000
+191054,1,,711 - Alto Damaia,,3,,ffffff,000000
+191669,1,,723 - Desterro,,3,,ffffff,000000
+191713,1,,728 - Restelo,,3,,ffffff,000000
+191084,1,,736 - Odivelas,,3,,ffffff,000000
+191086,1,,736 - Cais Sodré,,3,,ffffff,000000
+191190,1,,727 - Est. Roma-Areeiro,,3,,ffffff,000000
+192175,1,,742 - Ajuda,,3,,ffffff,000000
+190642,1,,760 - G. Freire,,3,,ffffff,000000
+191742,1,,768 - Quinta dos Alcoutins,,3,,ffffff,000000
+191743,1,,768 - Cidade Universitária,,3,,ffffff,000000
+191197,1,,773 - L. Rato,,3,,ffffff,000000
+191198,1,,793 - Estação Roma Areeiro,,3,,ffffff,000000
+191199,1,,793 - Marvila,,3,,ffffff,000000
+191675,1,,712 - Alcântara,,3,,ffffff,000000
+191126,1,,29B - C. Olivais/ Encarnaç,,3,,ffffff,000000
+191607,1,,208 - Cais Sodré,,3,,ffffff,000000
+191608,1,,210 - Prior Velho,,3,,ffffff,000000
+160180,1,,748 - Mq. Pombal,,3,,ffffff,000000
+161433,1,,774 - Campo Ourique,,3,,ffffff,000000
+161479,1,,764 - Cidade Universitária,,3,,ffffff,000000
+162250,1,,746 - Damaia,,3,,ffffff,000000
+162147,1,,702 - Marquês Pombal,,3,,ffffff,000000
+160165,1,,737 - Castelo,,3,,ffffff,000000
+160166,1,,737 - Pç. Figueira,,3,,ffffff,000000
+190645,1,,760 - G. Freire,,3,,ffffff,000000
+190646,1,,760 - G. Freire,,3,,ffffff,000000
+191167,1,,701 - C. Grande (Metro),,3,,ffffff,000000
+191169,1,,720 - Calvário,,3,,ffffff,000000
+191170,1,,720 - Picheleira,,3,,ffffff,000000
+191171,1,,720 - Picheleira,,3,,ffffff,000000
+191181,1,,727 - Restelo,,3,,ffffff,000000
+191132,1,,53E - Lg. Calhariz,,3,,ffffff,000000
+191133,1,,53E - R. S. Paulo,,3,,ffffff,000000
+191134,1,,701 - C. Grande (Metro),,3,,ffffff,000000
+191135,1,,712 - Est. Sta. Apolónia,,3,,ffffff,000000
+191095,1,,758 - Cais Sodré,,3,,ffffff,000000
+161292,1,,706 - Cais Sodré,,3,,ffffff,000000
+162274,1,,774 - Gomes Freire,,3,,ffffff,000000
+192189,1,,18E - Cemit. Ajuda,,3,,ffffff,000000
+192190,1,,18E - Cais Sodré,,3,,ffffff,000000
+192191,1,,206 - Odivelas,,3,,ffffff,000000
+192192,1,,206 - Odivelas,,3,,ffffff,000000
+192193,1,,206 - Cais Sodré,,3,,ffffff,000000
+192194,1,,207 - Fetais,,3,,ffffff,000000
+192195,1,,207 - Cais Sodré,,3,,ffffff,000000
+192196,1,,37B - Cruz da Pedra,,3,,ffffff,000000
+192197,1,,40B - Alto Chapeleiro,,3,,ffffff,000000
+192199,1,,40B - Lumiar(C. Comercial),,3,,ffffff,000000
+192201,1,,44B - Paço Lumiar,,3,,ffffff,000000
+192203,1,,"703 - Bº. Sta, Cruz",,3,,ffffff,000000
+192205,1,,703 - Charneca,,3,,ffffff,000000
+192206,1,,717 - Fetais,,3,,ffffff,000000
+192207,1,,717 - Fetais,,3,,ffffff,000000
+192208,1,,717 - Pç. Chile,,3,,ffffff,000000
+192209,1,,717 - Pç. Chile,,3,,ffffff,000000
+192210,1,,723 - Algés,,3,,ffffff,000000
+192211,1,,723 - Desterro,,3,,ffffff,000000
+192212,1,,727 - Restelo,,3,,ffffff,000000
+192213,1,,727 - Est. Roma-Areeiro,,3,,ffffff,000000
+192215,1,,729 - Algés,,3,,ffffff,000000
+192217,1,,729 - Algés,,3,,ffffff,000000
+192220,1,,729 - B. Padre Cruz,,3,,ffffff,000000
+192222,1,,729 - B. Padre Cruz,,3,,ffffff,000000
+192225,1,,73B - Centro Congressos,,3,,ffffff,000000
+192227,1,,765 - Benfica (Cemit.),,3,,ffffff,000000
+192228,1,,765 - Col. Militar,,3,,ffffff,000000
+192229,1,,76B - Boa-Hora,,3,,ffffff,000000
+192230,1,,778 - Colégio Militar (Met,,3,,ffffff,000000
+192231,1,,778 - Campo Grande (Metro),,3,,ffffff,000000
+192232,1,,798 - Galinheiras,,3,,ffffff,000000
+192233,1,,798 - Galinheiras,,3,,ffffff,000000
+192234,1,,798 - Campo Grande (Metro),,3,,ffffff,000000
+192235,1,,798 - Campo Grande (Metro),,3,,ffffff,000000
+192263,1,,714 - Pç. Figueira,,3,,ffffff,000000
+192270,1,,729 - Algés,,3,,ffffff,000000
+192271,1,,729 - Algés,,3,,ffffff,000000
+192272,1,,729 - Algés,,3,,ffffff,000000
+160185,1,,753 - Centro Sul,,3,,ffffff,000000
+162138,1,,723 - Desterro,,3,,ffffff,000000
+162139,1,,723 - Desterro,,3,,ffffff,000000
+162141,1,,750 - Algés,,3,,ffffff,000000
+162180,1,,717 - Fetais,,3,,ffffff,000000
+191139,1,,728 - Portela,,3,,ffffff,000000
+191140,1,,728 - Portela,,3,,ffffff,000000
+183502,1,,713 - Alameda,,3,,ffffff,000000
+183503,1,,713 - Est. Campolide,,3,,ffffff,000000
+192273,1,,729 - B. Padre Cruz,,3,,ffffff,000000
+192274,1,,729 - B. Padre Cruz,,3,,ffffff,000000
+192275,1,,729 - B. Padre Cruz,,3,,ffffff,000000
+192276,1,,729 - B. Padre Cruz,,3,,ffffff,000000
+190589,1,,18E - Cais Sodré,,3,,ffffff,000000
+190616,1,,728 - Restelo,,3,,ffffff,000000
+190619,1,,732 - M. Pombal,,3,,ffffff,000000
+162045,1,,783 - Portela,,3,,ffffff,000000
+162046,1,,783 - Portela,,3,,ffffff,000000
+162047,1,,783 - Portela,,3,,ffffff,000000
+161806,1,,716 - Benfica,,3,,ffffff,000000
+161129,1,,702 - Serafina,,3,,ffffff,000000
+161807,1,,716 - Arco Cego,,3,,ffffff,000000
+160221,1,,796 - Galinheiras,,3,,ffffff,000000
+160222,1,,796 - Campo Grande,,3,,ffffff,000000
+191729,1,,28E - M. Moniz,,3,,ffffff,000000
+191730,1,,726 - Sapadores,,3,,ffffff,000000
+191731,1,,726 - Sapadores,,3,,ffffff,000000
+176420,1,,756 - Junqueira,,3,,ffffff,000000
+176421,1,,756 - Olaias,,3,,ffffff,000000
+176438,1,,767 - C.Mártires da Patria,,3,,ffffff,000000
+176439,1,,767 - C.Mártires da Patria,,3,,ffffff,000000
+176447,1,,783 - Amoreiras,,3,,ffffff,000000
+162048,1,,783 - Amoreiras,,3,,ffffff,000000
+162049,1,,783 - Amoreiras,,3,,ffffff,000000
+161950,1,,52E - R. Câmara Pestana,,3,,ffffff,000000
+161951,1,,52E - Lg. Anunciada,,3,,ffffff,000000
+190634,1,,751 - Est. Campolide,,3,,ffffff,000000
+183509,1,,718 - Alameda,,3,,ffffff,000000
+190622,1,,735 - Cais Sodré,,3,,ffffff,000000
+190623,1,,735 - Cais Sodré,,3,,ffffff,000000
+190625,1,,736 - Odivelas,,3,,ffffff,000000
